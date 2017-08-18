@@ -1,0 +1,33 @@
+{
+  "datacollection" : [
+              {
+       "dept" : "SAP"
+             },
+               {
+       "dept" : "JAVA"
+             },
+               {
+       "dept" : "ORACLE"
+             },
+               {
+       "dept" : "NET"
+             },
+               {
+       "dept" : "CRM"
+             },
+               {
+       "dept" : "HANA"
+             },
+                     {
+       "dept" : "HANA"
+             },
+                     {
+       "dept" : "HANA"
+             },
+                     {
+       "dept" : "HANA"
+             }
+  ]
+
+
+}
