@@ -3,7 +3,7 @@
 	<Page title="Title">
 		<content>
 	          <VBox id="idVBox">
-	         
+	         <Button text="change12"/>
 	          </VBox>
 		</content>
 	</Page>
